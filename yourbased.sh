@@ -47,7 +47,7 @@ fi
 
 export PATH="$PATH:/opt/bin"
 
-gem install bundler -v 2.0.1
+gem install bundler
 # install
 bundle install --jobs=3 --retry=3
 # script

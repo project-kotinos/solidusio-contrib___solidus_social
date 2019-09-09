@@ -30,5 +30,5 @@ ci:
     name: default
 dependencies:
   build:
-  - ruby:2.3.5
+  - ruby:2.4.5
   - node:10.15.1
