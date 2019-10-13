@@ -45,4 +45,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rubocop', '~> 0.52.0'
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'yourbase-rspec-skipper'
+  s.add_development_dependency 'sprockets', '< 4.0.0'
 end
