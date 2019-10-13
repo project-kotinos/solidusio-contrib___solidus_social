@@ -1,4 +1,5 @@
 require 'simplecov'
+require 'yourbase/rspec/skipper'
 SimpleCov.start do
   add_filter 'spec'
   add_group  'Controllers', 'app/controllers'
